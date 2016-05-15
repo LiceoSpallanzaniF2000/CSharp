@@ -4,7 +4,7 @@
 
 ###Sintassi
 
-``` visual studio
+```  
 	if (*condizione*)  
 	{  
 		...  
