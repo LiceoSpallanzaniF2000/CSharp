@@ -4,7 +4,7 @@
 
 ###Sintassi
 
-'''
+```visual studio
 	if (*condizione*)  
 	{  
 		...  
@@ -17,7 +17,7 @@
 	{  
 		...  
 	}  
-'''
+```
 
 ###Ricorda
 * i simboli per i confonti sono  
