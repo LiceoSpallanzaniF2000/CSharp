@@ -5,11 +5,11 @@
 ###Sintassi
 
 ```  
-	if (*condizione*)  
+	if ( *condizione* )  
 	{  
 		...  
 	}  
-	else if (*condizione*)  
+	else if ( *condizione* )  
 	{  
 		...  
 	}  
