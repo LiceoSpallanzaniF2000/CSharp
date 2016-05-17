@@ -42,10 +42,10 @@
 ```
 
 ###Ricorda
-*i = i+1; == i+=1; == i++;
-*i = i-1; == i-=1; == i--;
-*i = i+2; == i+=2;
-*i = i-2; == i-=2;
+*i = i+1; == i+=1; == i++;  
+*i = i-1; == i-=1; == i--;  
+*i = i+2; == i+=2;  
+*i = i-2; == i-=2;  
 
 ##Gestione degli errori con `try...catch`
 
