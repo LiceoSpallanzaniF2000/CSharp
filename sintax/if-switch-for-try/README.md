@@ -39,7 +39,7 @@
 	{
 		...
 	}
-``
+```
 
 ###Ricorda
 *i = i+1; == i+=1; == i++;
@@ -59,4 +59,29 @@
 	{
 		... (istruzioni che si eseguono quando all'interno del try avviene un errore)
 	}	
+```
+
+##Switch
+
+###Sintassi
+
+```  
+	switch (*variabile*)
+	{
+		case *un possibile valore della variabile*:
+		{
+			...
+			break;
+		}
+		case *un altro possibile valore della variabile*:
+		{
+			...
+			break;
+		}
+		default:
+		{
+			...
+			break;
+		}
+	}
 ```

@@ -2,7 +2,7 @@
 
 ###Indice degli argomenti
 
-* ciclo if (https://github.com/LiceoSpallanzaniF2000/CSharp/tree/master/sintax/ciclo%20if)
+* ciclo if, switch, for, try-catch (https://github.com/LiceoSpallanzaniF2000/CSharp/tree/master/sintax/if-switch-for)
 
 
 ###Indice dei progetti
